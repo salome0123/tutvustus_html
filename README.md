@@ -1,6 +1,6 @@
 # Salome tutvustusleht
 
-Lihtne veebileht, mis tutvustab Salomet ning tema hobisid ja huvisid.
+Lihtne Salomed tutvustav veebileht, millele on lisatud foto ja kaks linki.
 
 [Vaata veebilehte](https://salomelole.github.io/repositooriumi-nimi/)
 
