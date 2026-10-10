@@ -2,7 +2,7 @@
 
 Lihtne Salomed tutvustav veebileht, millele on lisatud foto ja kaks linki.
 
-[Vaata veebilehte](https://salomelole.github.io/repositooriumi-nimi/)
+[Vaata veebilehte](https://salome0123.github.io/tutvustus_html/)
 
 ## Lehe sisu
 - Nimi ja lühike tutvustus
